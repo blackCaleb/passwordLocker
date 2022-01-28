@@ -10,7 +10,7 @@ class TestAccount(unittest.TestCase):
         '''
         Specifies may array
         '''
-        Accounts.usr_accounts = []
+        Account.usr_accounts = []
 
     def setUp(self):
         ''' 

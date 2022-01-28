@@ -32,7 +32,7 @@ class Accounts:
         '''
         for account in cls.usr_accounts:
             if account.usr_name == usr_name:
-                return true
+                return True
             return False
 
     @classmethod
